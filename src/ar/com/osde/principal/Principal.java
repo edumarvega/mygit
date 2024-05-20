@@ -6,6 +6,5 @@ public class Principal {
 		
 		System.out.println("Hola mundo java");//esto imprime el mensaje en consola
 		
-		//aqui seguro voy a poner nuevas lineas de codigo
 	}
 }
